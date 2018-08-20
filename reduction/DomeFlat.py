@@ -61,10 +61,10 @@ class MasterDomeFlat(object):
                 or path to directory with files
         * inpfiles_off: list
             list with lamp-off input files
-        * tempdir: string
-            directory to store temp files
         * outpname: string
             filename of the output master dome flat
+        * tempdir: string
+            directory to store temp files
         * normal: bool
             if true, flat will be normalized
         
